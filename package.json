@@ -1,0 +1,17 @@
+{
+  "name": "indie-dev-toolkit",
+  "version": "1.0.0",
+  "description": "A curated list of tools and resources for indie hackers, solo founders, and bootstrapped startups.",
+  "author": "David Dias (https://thedaviddias.com/)",
+  "license": "MIT",
+  "scripts": {
+    "format:check": "prettier --check README.md",
+    "format:fix": "prettier --write README.md && markdownlint README.md",
+    "prepare": "husky || true"
+  },
+  "devDependencies": {
+    "husky": "^9.1.6",
+    "markdownlint-cli": "^0.33.0",
+    "prettier": "^2.8.8"
+  }
+}
