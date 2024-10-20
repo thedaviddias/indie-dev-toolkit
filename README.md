@@ -291,12 +291,13 @@ Manage your projects efficiently with these tools designed for product teams.
 - **[Linear](https://linear.app/)** - Streamlined issue tracking tool for software development teams (Free / $8/user/month).
 - **[Canny](https://canny.io/)** - Customer feedback, roadmap and changelog tool (Free / $79/month).
 
-| Tool                                        | Description                                               | Pricing          |
-| ------------------------------------------- | --------------------------------------------------------- | ---------------- |
-| [Eraser](https://www.eraser.io/)            | Collaborative whiteboard tool for diagrams and mind maps. | Free / $10/month |
-| [Featurebase](https://www.featurebase.app/) | Feature voting and roadmap tool for product teams.        | Free / $49/month |
-| [Wishkit](https://www.wishkit.io/)          | Build better iOS apps with customer feedback.             | Free / $15/month |
-| [Retool](https://retool.com/)               | Build internal tools with 100+ pre-built UI components.   | Free / $10/month |
+| Tool                                         | Description                                                  | Pricing                                                |
+| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| [Eraser](https://www.eraser.io/)             | Collaborative whiteboard tool for diagrams and mind maps.    | Free / $10/month                                       |
+| [Featurebase](https://www.featurebase.app/)  | Feature voting and roadmap tool for product teams.           | Free / $49/month                                       |
+| [Logchimp](https://logchimp.codecarrot.net/) | Track customer' feedback to make product decisions with ease | Free ([Open Source](https://logchimp.codecarrot.net/)) |
+| [Retool](https://retool.com/)                | Build internal tools with 100+ pre-built UI components.      | Free / $10/month                                       |
+| [Wishkit](https://www.wishkit.io/)           | Build better iOS apps with customer feedback.                | Free / $15/month                                       |
 
 ---
 
@@ -358,4 +359,4 @@ I'm always looking to improve this list. If you have any feedback, suggestions, 
 
 ## 📄 License
 
-This project is licensed under the terms of the [MIT license](https://github.com/thedaviddias/indie-dev-toolkit/blob/main/LICENCE.md). You are free to use, modify, and distribute this list in accordance with the license.
+This project is licensed under the terms of the [MIT license](https://github.com/thedaviddias/indie-dev-toolkit/blob/main/LICENCE). You are free to use, modify, and distribute this list in accordance with the license.
