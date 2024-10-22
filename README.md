@@ -157,7 +157,7 @@ Tools that use AI to enhance development workflows (this may often change).
 | Tool                          | Description                                            | Pricing                                                                  |
 | ----------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------ |
 | [v0](https://v0.dev/)         | Generate UI with simple text prompts                   | Free / $20/month                                                         |
-| [bold.new](https://bold.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
+| [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [replit](https://replit.com/) | AI-powered software development & deployment platform. | Free / $15/month                                                         |
 
 ---
