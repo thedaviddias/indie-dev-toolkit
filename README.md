@@ -70,6 +70,7 @@ Authentication solutions to secure your applications.
 
 - **[Clerk](https://clerk.com/)** - Complete user authentication system with pre-built UI components.
 - **[Supabase Auth](https://supabase.com/docs/reference/auth)** - Open-source authentication with integrated backend services.
+- **[Scalekit](https://www.scalekit.com)** - Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 
 | Tool                        | Description                              | Pricing          |
 | --------------------------- | ---------------------------------------- | ---------------- |
