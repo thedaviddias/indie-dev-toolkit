@@ -160,6 +160,7 @@ Tools that use AI to enhance development workflows (this may often change).
 | [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [Firebase studio](https://studio.firebase.google.com/) | AI-Powered Full-Stack Web Development in the Browser.  | Free |
 | [replit](https://replit.com/) | AI-powered software development & deployment platform. | Free / $15/month                                                         |
+| [Taskade](https://taskade.com/) | AI workspace with AI agents, automations, and Genesis app builder for indie developers | Free / $8/month |
 
 ---
 
