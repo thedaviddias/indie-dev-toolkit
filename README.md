@@ -274,9 +274,11 @@ Gather tools that can help you market your product effectively and grow your aud
 💎 **Top Free Picks**:
 
 - **[Google Search Console](https://search.google.com/search-console)** - Free tool for monitoring and maintaining website presence in Google Search results.
+- **[PageGuard](https://pageguard.org)** - Free website health scanner: check SEO, ADA accessibility, performance, and best practices in one report.
 
 | Tool                            | Description                                                               | Pricing         |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
+| [PageGuard](https://pageguard.org) | All-in-one website health scanner for SEO, accessibility, and performance audits. | Free / $9/month |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
 
 ---
