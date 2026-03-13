@@ -70,6 +70,7 @@ Authentication solutions to secure your applications.
 
 - **[Clerk](https://clerk.com/)** - Complete user authentication system with pre-built UI components.
 - **[Supabase Auth](https://supabase.com/docs/reference/auth)** - Open-source authentication with integrated backend services.
+- **[Cerbos](https://www.cerbos.dev/product-cerbos-pdp)** - Scalable, open-source authorization layer for implementing roles and permissions in your apps.
 
 | Tool                        | Description                              | Pricing          |
 | --------------------------- | ---------------------------------------- | ---------------- |
