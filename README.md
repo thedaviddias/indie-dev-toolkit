@@ -159,6 +159,7 @@ Tools that use AI to enhance development workflows (this may often change).
 | [v0](https://v0.dev/)         | Generate UI with simple text prompts                   | Free / $20/month                                                         |
 | [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [Firebase studio](https://studio.firebase.google.com/) | AI-Powered Full-Stack Web Development in the Browser.  | Free |
+| [Price Per Token](https://pricepertoken.com/) | Compare LLM API pricing across 300+ models to choose cost-effective providers. | Free |
 | [replit](https://replit.com/) | AI-powered software development & deployment platform. | Free / $15/month                                                         |
 
 ---
