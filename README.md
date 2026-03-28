@@ -1,3 +1,4 @@
+
 # 🚀 Indie Dev Toolkit
 
 A curated list of essential tools and resources for indie hackers, solo founders, and bootstrapped startups building both web and mobile apps. Whether you're launching your MVP or scaling your product, this list offers free and freemium options to help you succeed without breaking the bank!
@@ -131,6 +132,7 @@ Frameworks and tools for building websites efficiently.
 
 | Tool                                | Description                                    | Pricing          |
 | ----------------------------------- | ---------------------------------------------- | ---------------- |
+| [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) | Generate a complete vertical SaaS for any industry in one command. Next.js + Supabase. | Free ([Open Source](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen)) |
 | [Buildship](https://buildship.com/) | Low-code visual way to build your app, apis.   | Free / $25/month |
 | [Reweb](https://www.reweb.so/)      | Visual website builder for Next.js & Tailwind. | Free / $17/month |
 
