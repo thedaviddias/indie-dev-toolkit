@@ -1,4 +1,5 @@
 # 🚀 Indie Dev Toolkit
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 A curated list of essential tools and resources for indie hackers, solo founders, and bootstrapped startups building both web and mobile apps. Whether you're launching your MVP or scaling your product, this list offers free and freemium options to help you succeed without breaking the bank!
 
