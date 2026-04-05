@@ -280,6 +280,12 @@ Gather tools that can help you market your product effectively and grow your aud
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
 
+### Social Proof & Testimonials
+
+| Tool                                                        | Description                                                                                    | Pricing              |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------- |
+| [TestimonialFlow](https://testimonialflow-kappa.vercel.app) | Collect customer testimonials via shareable links and embed them on any website in 2 minutes.   | Free / $9/month      |
+
 ---
 
 ## 📝 Project & Product Management
