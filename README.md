@@ -270,6 +270,12 @@ Gather tools that can help you market your product effectively and grow your aud
 | [Loops](https://loops.so/)           | Email marketing platform for sending newsletters and promotions. | Free up to 1,000 contacts / $49/month |
 | [Wraps](https://wraps.dev/)           | Open-Source email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure. | Free / $19/month |
 
+### Social Media
+
+| Tool                                         | Description                                                                     | Pricing                                            |
+| -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [BulkPublish](https://www.bulkpublish.com)   | Social media API for 11 platforms with scheduling, analytics, and AI agent support. Python & Node SDKs. | Free / $9/month |
+
 ### SEO Tools
 
 💎 **Top Free Picks**:
