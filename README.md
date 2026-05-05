@@ -156,6 +156,7 @@ Tools that use AI to enhance development workflows (this may often change).
 
 | Tool                          | Description                                            | Pricing                                                                  |
 | ----------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [Brainiall](https://chat.brainiall.com) | OpenAI-compatible AI gateway with 104 models (GPT-5, Claude 4.6, Gemini 3, DeepSeek). Drop-in replacement for OpenAI SDK. EU-hosted, GDPR/AI Act compliant. | Free / \$5.99/mo flat |
 | [v0](https://v0.dev/)         | Generate UI with simple text prompts                   | Free / $20/month                                                         |
 | [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [Firebase studio](https://studio.firebase.google.com/) | AI-Powered Full-Stack Web Development in the Browser.  | Free |
