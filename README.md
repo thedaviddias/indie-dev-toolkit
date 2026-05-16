@@ -160,6 +160,7 @@ Tools that use AI to enhance development workflows (this may often change).
 | [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [Firebase studio](https://studio.firebase.google.com/) | AI-Powered Full-Stack Web Development in the Browser.  | Free |
 | [replit](https://replit.com/) | AI-powered software development & deployment platform. | Free / $15/month                                                         |
+| [Aura-huang/agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn) | 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。 | Free ([Open Source](https://github.com/Aura-huang/agency-agents-cn)) |
 
 ---
 
