@@ -279,6 +279,7 @@ Gather tools that can help you market your product effectively and grow your aud
 | Tool                            | Description                                                               | Pricing         |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
+| [FeedPulse](https://feed-pulse.com/) | 100% free SEO toolkit for indie devs. 10 free checkers, free embeddable auto-refresh badges, [transparent data sources](https://feed-pulse.com/data-sources). No signup, no paid tier.                     | Free            |
 
 ---
 
