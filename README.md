@@ -223,6 +223,8 @@ Payment solutions to manage subscriptions, invoices, and transactions.
 
 - **[Stripe](https://stripe.com/en-ca)** - Comprehensive payment processing solution.
 
+> 💡 **Non-US founders**: Stripe requires a US entity. [LLC Class](https://llcclass.com) provides [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders — includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent) and EIN to unlock Stripe + Mercury bank access.
+
 | Service                                        | Description                                                                  | Pricing                  |
 | ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------ |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/) | All-in-one platform for selling digital products and managing subscriptions. | Free / Transaction fee % |
