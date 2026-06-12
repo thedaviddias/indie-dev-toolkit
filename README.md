@@ -18,6 +18,7 @@ A curated list of essential tools and resources for indie hackers, solo founders
 - [🎨 Design & UI](#-design--ui)
 - [📊 Analytics & Monitoring](#-analytics--monitoring)
 - [💰 Payments & Billing](#-payments--billing)
+- [🏛️ Legal & Business Setup](#️-legal--business-setup)
 - [📣 Marketing & Growth](#-marketing--growth)
 - [📝 Project & Product Management](#-project--product-management)
 
@@ -228,6 +229,20 @@ Payment solutions to manage subscriptions, invoices, and transactions.
 | [Lemon Squeezy](https://www.lemonsqueezy.com/) | All-in-one platform for selling digital products and managing subscriptions. | Free / Transaction fee % |
 | [Paddle](https://www.paddle.com/)              | Complete payments, tax, and subscription management solution for SaaS.       | Pay as you go            |
 | [RevenueCat](https://www.revenuecat.com/)      | Subscription management system for mobile apps.                              | Free / 1%                |
+
+---
+
+## 🏛️ Legal & Business Setup
+
+### Overview
+
+Tools for company formation, legal compliance, and business registration — essential for indie hackers operating internationally.
+
+| Service                                                      | Description                                                                                                                                              | Pricing        |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [LLC Class](https://llcclass.com/wyoming)                    | Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — everything needed to accept Stripe and Mercury payments. | From $199      |
+| [Stripe Atlas](https://stripe.com/atlas)                     | Delaware C-Corp or LLC formation for founders, with banking and legal docs.                                                                              | $500 one-time  |
+| [Termly](https://termly.io/)                                 | Free privacy policy, terms of service, and cookie consent generator.                                                                                     | Free / Paid    |
 
 ---
 
