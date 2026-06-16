@@ -241,6 +241,7 @@ Gather tools that can help you market your product effectively and grow your aud
 
 | Tool                                              | Description                       | Pricing            |
 | ------------------------------------------------- | --------------------------------- | ------------------ |
+| [Marteso](https://marteso.com)                    | ASO keyword tracking, AI metadata optimization and competitor analysis for indie iOS developers. | Free / €18/month |
 | [Sensor Tower](https://sensortower.com/)          | App store analytics and insights. | Free / Per feature |
 | [Google Trends](https://trends.google.com/trends) | Search analytics and insights.    | Free               |
 
