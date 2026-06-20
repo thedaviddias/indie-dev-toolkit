@@ -17,6 +17,7 @@ A curated list of essential tools and resources for indie hackers, solo founders
 - [🤖 AI-Powered Development](#-ai-powered-development)
 - [🎨 Design & UI](#-design--ui)
 - [📊 Analytics & Monitoring](#-analytics--monitoring)
+- [🔒 Security](#-security)
 - [💰 Payments & Billing](#-payments--billing)
 - [📣 Marketing & Growth](#-marketing--growth)
 - [📝 Project & Product Management](#-project--product-management)
@@ -210,6 +211,18 @@ Tools to monitor performance, analyze traffic, and track errors.
 | Tool                      | Description                                 | Pricing          |
 | ------------------------- | ------------------------------------------- | ---------------- |
 | [dub.co](https://dub.co/) | Link tracking and analytics for your links. | Free / $19/month |
+
+---
+
+## 🔒 Security
+
+### Overview
+
+Tools to catch the security issues AI-generated and indie apps ship by default — exposed keys, open databases, missing headers — before they reach production.
+
+| Tool | Description | Pricing |
+| --- | --- | --- |
+| [CheckVibe](https://checkvibe.dev) | Paste a URL to scan a deployed app for 100+ security issues (exposed API keys, open Supabase tables, missing headers) plus SEO and AEO/AI-visibility, with copy-paste AI fixes. | Free / paid |
 
 ---
 
