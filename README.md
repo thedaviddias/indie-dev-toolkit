@@ -116,6 +116,7 @@ Databases and data management solutions to handle scaling data needs.
 | ----------------------------------------- | ---------------------------------------------------------------- | ---------------- |
 | [Contentful](https://www.contentful.com/) | Headless CMS for managing content. Generous free tier available. | Free / $10/month |
 | [Strapi](https://strapi.io/)              | Open-source headless CMS solution. Fully customizable.           | Free / $10/month |
+| [UnfoldCMS](https://unfoldcms.com)        | Self-hosted CMS built on Laravel 12 + React 19. REST API v1, HMAC webhooks, headless mode (Next.js/Astro/SvelteKit/Nuxt). ([Source Code](https://github.com/hpakdaman/unfoldcms)) | Free (self-hosted) |
 
 ---
 
