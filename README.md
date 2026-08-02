@@ -362,3 +362,4 @@ I'm always looking to improve this list. If you have any feedback, suggestions, 
 ## 📄 License
 
 This project is licensed under the terms of the [MIT license](https://github.com/thedaviddias/indie-dev-toolkit/blob/main/LICENCE). You are free to use, modify, and distribute this list in accordance with the license.
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
