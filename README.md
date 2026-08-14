@@ -280,6 +280,14 @@ Gather tools that can help you market your product effectively and grow your aud
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
 
+### Customer Support & Live Chat
+
+| Tool                                    | Description                                                                                                  | Pricing |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------- |
+| [Knocket](https://knocket.com/)         | Free-forever live chat widget + shareable contact page + unified Telegram/email inbox. No seat limits, no ads. | Free    |
+| [Crisp](https://crisp.chat/)            | Live chat, knowledge base, and CRM for startups.                                                             | Free / $25/month |
+| [Tawk.to](https://www.tawk.to/)         | Free live chat and customer communication platform.                                                          | Free    |
+
 ---
 
 ## 📝 Project & Product Management
