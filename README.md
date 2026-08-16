@@ -279,6 +279,7 @@ Gather tools that can help you market your product effectively and grow your aud
 | Tool                            | Description                                                               | Pricing         |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. | Free / paid |
 
 ---
 
