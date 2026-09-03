@@ -160,6 +160,7 @@ Tools that use AI to enhance development workflows (this may often change).
 | [bolt.new](https://bolt.new/) | AI-Powered Full-Stack Web Development in the Browser.  | Free ([Open Source](https://github.com/stackblitz/bolt.new)) / $20/month |
 | [Firebase studio](https://studio.firebase.google.com/) | AI-Powered Full-Stack Web Development in the Browser.  | Free |
 | [replit](https://replit.com/) | AI-powered software development & deployment platform. | Free / $15/month                                                         |
+| [Superagent](https://github.com/pungme/superagent-desktop) | macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring. | Free (Open Source, MIT) |
 
 ---
 
