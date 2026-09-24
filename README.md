@@ -43,6 +43,7 @@ Tools for hosting, backend management, and deployment to help build and scale ap
 | [Appwrite](https://appwrite.io/)               | Self-hostable backend server for web and mobile apps.    | Free / $15/month      |
 | [Coolify](https://coolify.io/)                 | Open-source alternative to Heroku & Netlify.             | Free trial / $5/month |
 | [Digital Ocean](https://www.digitalocean.com/) | Cloud hosting with an affordable entry-level plan.       | Free / $5/month       |
+| [Nhost](https://nhost.io/) | Open-source Postgres backend with GraphQL, auth, storage and functions. | Free / $25/month |
 | [Railway](https://railway.app/)                | Modern platform for deploying web apps quickly.          | Free trial / $5/month |
 
 #### Automation & Event-Driven Services
