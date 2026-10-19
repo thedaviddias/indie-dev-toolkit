@@ -204,6 +204,7 @@ Tools to monitor performance, analyze traffic, and track errors.
 | [Posthog](https://posthog.com/)    | Open-source product analytics platform to monitor user behavior across apps. | Free / Usage based                              |
 | [Sentry](https://sentry.io/)       | Error tracking and performance monitoring for web and mobile apps            | Free / $26/month                                |
 | [Mixpanel](https://mixpanel.com/)  | Advanced analytics platform for tracking user behavior.                      | Free (first year free for startups) / $24/month |
+| [WatchCron](https://watchcron.com/)  | Cron job monitoring with heartbeat pings, duration tracking, and failure alerts. | Free / $5/month                                 |
 
 #### Link Tracking
 
