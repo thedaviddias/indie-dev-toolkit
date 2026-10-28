@@ -279,6 +279,7 @@ Gather tools that can help you market your product effectively and grow your aud
 | Tool                            | Description                                                               | Pricing         |
 | ------------------------------- | ------------------------------------------------------------------------- | --------------- |
 | [SEMrush](https://semrush.com/) | Comprehensive suite for SEO, content marketing, and competitive research. | Free / $X/month |
+| [App Store Localizer](https://asolocalization.com/) | Localize App Store screenshots and metadata (title, subtitle, keywords) for indie iOS apps shipping worldwide. | One-time / from $19.99 |
 
 ---
 
