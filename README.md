@@ -182,7 +182,7 @@ Design resources to create attractive user interfaces.
 | ----------------------------------- | ------------------------------------------------- | ---------------- |
 | [unDraw](https://undraw.co/)        | Open-source illustrations for various use cases.  | Free             |
 | [Heroicons](https://heroicons.dev/) | MIT-licensed SVG icons for modern web projects.   | Free             |
-| [Mobbin](https://mobbin.com/)       | Collection of mobile app designs for inspiration. | Free / $19/month |
+| [Mobbin](https://mobbin.com/)       | Library of real iOS and web app screens and flows, with an MCP server for AI coding agents. | Free / from $10/month |
 
 ---
 
