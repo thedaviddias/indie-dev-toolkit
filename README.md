@@ -267,6 +267,7 @@ Gather tools that can help you market your product effectively and grow your aud
 | Tool                                 | Description                                                      | Pricing                               |
 | ------------------------------------ | ---------------------------------------------------------------- | ------------------------------------- |
 | [00](https://www.double-zero.cloud/) | Suite of growth tools for startups and small businesses.         | Free / Pre-order Pro                  |
+| [InboxShield](https://inbox.shipbastion.com/) | Email deliverability & DNS auth workbench (recursive SPF 10-lookup flattener, 24 DKIM selectors, DMARC, MTA-STS, BIMI & 5 DNSBLs) plus MIT CLI. | Free unlimited scans / $2 one-time Pro Fix |
 | [Loops](https://loops.so/)           | Email marketing platform for sending newsletters and promotions. | Free up to 1,000 contacts / $49/month |
 | [Wraps](https://wraps.dev/)           | Open-Source email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure. | Free / $19/month |
 
